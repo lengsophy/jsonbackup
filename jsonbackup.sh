@@ -1,7 +1,7 @@
 #!/bin/sh
 while true 
 do
-    date=$(date +"%m_%d_%Y")
+    date=$(date +"%m_%d_%Y_%s")
     dirname='dump'.date
     # dump= mongodump --port 4001 --db safir --collection colname
     if [ -d "dirname" ]
@@ -22,6 +22,6 @@ do
 	sudo git push --repo https://lengsophy:sophyleng1267437611@github.com/lengsophy/jsonbackup.git
 
     fi
-    sleep 1d
+    sleep 2m
 
 done
