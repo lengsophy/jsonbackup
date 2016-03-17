@@ -74,3 +74,143 @@ connected to: 127.0.0.1
 exported 41514 records
 connected to: 127.0.0.1
 exported 53953 records
+[master 53bc9fd] udpate db
+ 39 files changed, 222598 insertions(+)
+ rename a.txt => 03_17_2016_1458189157/answerquizz.json (100%)
+ create mode 100644 03_17_2016_1458189157/attribute.json
+ create mode 100644 03_17_2016_1458189157/attribute_value.json
+ create mode 100644 03_17_2016_1458189157/banner.json
+ create mode 100644 03_17_2016_1458189157/card.json
+ create mode 100644 03_17_2016_1458189157/cart.json
+ create mode 100644 03_17_2016_1458189157/categories.json
+ create mode 100644 03_17_2016_1458189157/cfs._tempstore.json
+ create mode 100644 03_17_2016_1458189157/cfs.images.filerecord.json
+ create mode 100644 03_17_2016_1458189157/contents.json
+ create mode 100644 03_17_2016_1458189157/contents_type.json
+ create mode 100644 03_17_2016_1458189157/daily.json
+ create mode 100644 03_17_2016_1458189157/discount.json
+ create mode 100644 03_17_2016_1458189157/favorite.json
+ create mode 100644 03_17_2016_1458189157/journey.json
+ create mode 100644 03_17_2016_1458189157/linkselling.json
+ create mode 100644 03_17_2016_1458189157/list_product.json
+ create mode 100644 03_17_2016_1458189157/meteor_accounts_loginServiceConfiguration.json
+ create mode 100644 03_17_2016_1458189157/meteor_oauth_pendingCredentials.json
+ create mode 100644 03_17_2016_1458189157/meteor_oauth_pendingRequestTokens.json
+ create mode 100644 03_17_2016_1458189157/mouse.json
+ create mode 100644 03_17_2016_1458189157/order.json
+ create mode 100644 03_17_2016_1458189157/p2.json
+ create mode 100644 03_17_2016_1458189157/parent_tags.json
+ create mode 100644 03_17_2016_1458189157/parentattr.json
+ create mode 100644 03_17_2016_1458189157/payment.json
+ create mode 100644 03_17_2016_1458189157/posts.json
+ create mode 100644 03_17_2016_1458189157/products.json
+ create mode 100644 03_17_2016_1458189157/question.json
+ create mode 100644 03_17_2016_1458189157/quizz.json
+ create mode 100644 03_17_2016_1458189157/roles.json
+ create mode 100644 03_17_2016_1458189157/shops.json
+ create mode 100644 03_17_2016_1458189157/stock.json
+ create mode 100644 03_17_2016_1458189157/tags.json
+ create mode 100644 03_17_2016_1458189157/tracking.json
+ create mode 100644 03_17_2016_1458189157/translation.json
+ create mode 100644 03_17_2016_1458189157/userTracking.json
+ create mode 100644 03_17_2016_1458189157/users.json
+ create mode 100644 nohup.out
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+In Git 2.0, Git will default to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To https://lengsophy:sophyleng1267437611@github.com/lengsophy/jsonbackup.git
+   2a24e94..53bc9fd  master -> master
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 5816 records
+connected to: 127.0.0.1
+exported 440 records
+connected to: 127.0.0.1
+exported 6 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 40 records
+connected to: 127.0.0.1
+exported 66 records
+connected to: 127.0.0.1
+exported 818 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 21 records
+connected to: 127.0.0.1
+exported 3 records
+connected to: 127.0.0.1
+exported 31 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 109 records
+connected to: 127.0.0.1
+exported 3 records
+connected to: 127.0.0.1
+exported 1 records
+connected to: 127.0.0.1
+exported 3 records
+connected to: 127.0.0.1
+exported 4 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 27 records
+connected to: 127.0.0.1
+exported 848 records
+connected to: 127.0.0.1
+exported 2 records
+connected to: 127.0.0.1
+exported 133 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 1297 records
+connected to: 127.0.0.1
+exported 6 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 1 records
+connected to: 127.0.0.1
+exported 2 records
+connected to: 127.0.0.1
+exported 115960 records
+connected to: 127.0.0.1
+exported 667 records
+connected to: 127.0.0.1
+exported 0 records
+connected to: 127.0.0.1
+exported 751 records
+connected to: 127.0.0.1
+exported 41514 records
+connected to: 127.0.0.1
+exported 53953 records
