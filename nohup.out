@@ -1803,3 +1803,147 @@ To https://lengsophy:sophyleng1267437611@github.com/lengsophy/jsonbackup.git
 2016-03-17T09:15:31.768+0000	exported 41524 records
 2016-03-17T09:15:31.777+0000	connected to: localhost
 2016-03-17T09:15:33.723+0000	exported 93960 records
+[master 7997094] udpate db
+ Committer: Cloud User <centos@ip-172-31-8-66.ec2.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 39 files changed, 268517 insertions(+)
+ create mode 100644 03_17_2016_1458206125/answerquizz.json
+ create mode 100644 03_17_2016_1458206125/attribute.json
+ create mode 100644 03_17_2016_1458206125/attribute_value.json
+ create mode 100644 03_17_2016_1458206125/banner.json
+ create mode 100644 03_17_2016_1458206125/card.json
+ create mode 100644 03_17_2016_1458206125/cart.json
+ create mode 100644 03_17_2016_1458206125/categories.json
+ create mode 100644 03_17_2016_1458206125/cfs._tempstore.json
+ create mode 100644 03_17_2016_1458206125/cfs.images.filerecord.json
+ create mode 100644 03_17_2016_1458206125/contents.json
+ create mode 100644 03_17_2016_1458206125/contents_type.json
+ create mode 100644 03_17_2016_1458206125/daily.json
+ create mode 100644 03_17_2016_1458206125/discount.json
+ create mode 100644 03_17_2016_1458206125/favorite.json
+ create mode 100644 03_17_2016_1458206125/journey.json
+ create mode 100644 03_17_2016_1458206125/linkselling.json
+ create mode 100644 03_17_2016_1458206125/list_product.json
+ create mode 100644 03_17_2016_1458206125/meteor_accounts_loginServiceConfiguration.json
+ create mode 100644 03_17_2016_1458206125/meteor_oauth_pendingCredentials.json
+ create mode 100644 03_17_2016_1458206125/meteor_oauth_pendingRequestTokens.json
+ create mode 100644 03_17_2016_1458206125/mouse.json
+ create mode 100644 03_17_2016_1458206125/order.json
+ create mode 100644 03_17_2016_1458206125/p2.json
+ create mode 100644 03_17_2016_1458206125/parent_tags.json
+ create mode 100644 03_17_2016_1458206125/parentattr.json
+ create mode 100644 03_17_2016_1458206125/payment.json
+ create mode 100644 03_17_2016_1458206125/posts.json
+ create mode 100644 03_17_2016_1458206125/products.json
+ create mode 100644 03_17_2016_1458206125/question.json
+ create mode 100644 03_17_2016_1458206125/quizz.json
+ create mode 100644 03_17_2016_1458206125/roles.json
+ create mode 100644 03_17_2016_1458206125/shops.json
+ create mode 100644 03_17_2016_1458206125/stock.json
+ create mode 100644 03_17_2016_1458206125/tags.json
+ create mode 100644 03_17_2016_1458206125/tracking.json
+ create mode 100644 03_17_2016_1458206125/translation.json
+ create mode 100644 03_17_2016_1458206125/userTracking.json
+ create mode 100644 03_17_2016_1458206125/users.json
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+To https://lengsophy:sophyleng1267437611@github.com/lengsophy/jsonbackup.git
+   f590a94..7997094  master -> master
+2016-03-17T09:17:38.057+0000	connected to: localhost
+2016-03-17T09:17:38.058+0000	exported 17 records
+2016-03-17T09:17:38.065+0000	connected to: localhost
+2016-03-17T09:17:38.220+0000	exported 5834 records
+2016-03-17T09:17:38.228+0000	connected to: localhost
+2016-03-17T09:17:38.237+0000	exported 440 records
+2016-03-17T09:17:38.244+0000	connected to: localhost
+2016-03-17T09:17:38.245+0000	exported 7 records
+2016-03-17T09:17:38.252+0000	connected to: localhost
+2016-03-17T09:17:38.252+0000	exported 0 records
+2016-03-17T09:17:38.259+0000	connected to: localhost
+2016-03-17T09:17:38.262+0000	exported 80 records
+2016-03-17T09:17:38.270+0000	connected to: localhost
+2016-03-17T09:17:38.272+0000	exported 66 records
+2016-03-17T09:17:38.296+0000	connected to: localhost
+2016-03-17T09:17:38.410+0000	exported 876 records
+2016-03-17T09:17:38.462+0000	connected to: localhost
+2016-03-17T09:17:38.462+0000	exported 0 records
+2016-03-17T09:17:38.487+0000	connected to: localhost
+2016-03-17T09:17:38.489+0000	exported 21 records
+2016-03-17T09:17:38.497+0000	connected to: localhost
+2016-03-17T09:17:38.498+0000	exported 3 records
+2016-03-17T09:17:38.505+0000	connected to: localhost
+2016-03-17T09:17:38.506+0000	exported 31 records
+2016-03-17T09:17:38.514+0000	connected to: localhost
+2016-03-17T09:17:38.514+0000	exported 1 record
+2016-03-17T09:17:38.521+0000	connected to: localhost
+2016-03-17T09:17:38.525+0000	exported 163 records
+2016-03-17T09:17:38.532+0000	connected to: localhost
+2016-03-17T09:17:38.532+0000	exported 3 records
+2016-03-17T09:17:38.539+0000	connected to: localhost
+2016-03-17T09:17:38.540+0000	exported 1 record
+2016-03-17T09:17:38.547+0000	connected to: localhost
+2016-03-17T09:17:38.547+0000	exported 3 records
+2016-03-17T09:17:38.554+0000	connected to: localhost
+2016-03-17T09:17:38.554+0000	exported 4 records
+2016-03-17T09:17:38.561+0000	connected to: localhost
+2016-03-17T09:17:38.562+0000	exported 0 records
+2016-03-17T09:17:38.569+0000	connected to: localhost
+2016-03-17T09:17:38.569+0000	exported 0 records
+2016-03-17T09:17:38.577+0000	connected to: localhost
+2016-03-17T09:17:38.695+0000	exported 5157 records
+2016-03-17T09:17:38.703+0000	connected to: localhost
+2016-03-17T09:17:38.707+0000	exported 61 records
+2016-03-17T09:17:38.714+0000	connected to: localhost
+2016-03-17T09:17:39.003+0000	exported 848 records
+2016-03-17T09:17:39.012+0000	connected to: localhost
+2016-03-17T09:17:39.012+0000	exported 2 records
+2016-03-17T09:17:39.020+0000	connected to: localhost
+2016-03-17T09:17:39.024+0000	exported 133 records
+2016-03-17T09:17:39.031+0000	connected to: localhost
+2016-03-17T09:17:39.032+0000	exported 0 records
+2016-03-17T09:17:39.039+0000	connected to: localhost
+2016-03-17T09:17:39.040+0000	exported 2 records
+2016-03-17T09:17:39.047+0000	connected to: localhost
+2016-03-17T09:17:39.225+0000	exported 835 records
+2016-03-17T09:17:39.234+0000	connected to: localhost
+2016-03-17T09:17:39.234+0000	exported 6 records
+2016-03-17T09:17:39.241+0000	connected to: localhost
+2016-03-17T09:17:39.242+0000	exported 5 records
+2016-03-17T09:17:39.249+0000	connected to: localhost
+2016-03-17T09:17:39.250+0000	exported 1 record
+2016-03-17T09:17:39.257+0000	connected to: localhost
+2016-03-17T09:17:39.257+0000	exported 2 records
+2016-03-17T09:17:39.264+0000	connected to: localhost
+2016-03-17T09:17:41.683+0000	exported 115960 records
+2016-03-17T09:17:41.844+0000	connected to: localhost
+2016-03-17T09:17:41.863+0000	exported 667 records
+2016-03-17T09:17:41.871+0000	connected to: localhost
+2016-03-17T09:17:41.891+0000	exported 909 records
+2016-03-17T09:17:41.899+0000	connected to: localhost
+2016-03-17T09:17:41.921+0000	exported 751 records
+2016-03-17T09:17:41.929+0000	connected to: localhost
+2016-03-17T09:17:44.475+0000	exported 41524 records
+2016-03-17T09:17:44.487+0000	connected to: localhost
+2016-03-17T09:17:46.440+0000	exported 93960 records
